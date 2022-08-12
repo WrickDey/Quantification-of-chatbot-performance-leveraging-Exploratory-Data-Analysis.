@@ -1,0 +1,2 @@
+# Quantification-of-chatbot-performance-leveraging-Exploratory-Data-Analysis.
+In our project we have performed analysis on real world chatbot data and have obtained insights which successfully tallied with real world facts and information to a greater accuracy, that would aid us on automatic quantification of chatbot’s performance to allow faster prototyping and testing new chatbot models without requiring costly human evaluations.
